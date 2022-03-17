@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee&family=Lacquer&family=Rock+Salt&display=swap");
+
+body, html {
+  height: 100%;
+}
+
+h1 {
+  font-family: Lacquer;
+  font-size: 80px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+p {
+  font-family: Lacquer;
+  font-size: 40px;
+
+}
+
+#rock,
+#paper,
+#scissors {
+  font-family: Lacquer;
+  font-size: 40px;
+}
+
+.game {
+  text-align: center;
+  padding-top: 10%;
+}
+
+.buttons {
+  padding-top: 40px;
+}
+
+#paper {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.result-line {
+  margin-top: 60px;
+  font-size: 60px;
+  color: rgb(247, 15, 123);
+}
+
+
+.hero-image {
+    background-image: url("/assets/images/bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+
+
+
+.icons {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.icons > li {
+  display: inline;
+}
+
+.icons i {
+  font-size: 260%;
+  
+
+  
+}
+
+
+  
+  
